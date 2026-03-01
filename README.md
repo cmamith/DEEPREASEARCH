@@ -1,6 +1,8 @@
-# Deep Research Project
+# ✨ Deep Research Assistant
 
-An AI-powered deep research tool that plans, performs web searches, and writes detailed reports.
+This project is a powerful AI-driven research tool that performs deep web analysis to generate comprehensive reports and deliver them via email.
+
+*Inspired by Ed Donner's course: "AI Engineer Agentic Track: The Complete Agent & MCP Course"*
 
 ## Setup
 
